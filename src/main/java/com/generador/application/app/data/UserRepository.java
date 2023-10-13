@@ -1,4 +1,4 @@
-package com.generador.application.data;
+package com.generador.application.app.data;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;

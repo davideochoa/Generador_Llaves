@@ -1,7 +1,7 @@
 package com.generador.application.security;
 
-import com.generador.application.data.User;
-import com.generador.application.data.UserRepository;
+import com.generador.application.app.data.User;
+import com.generador.application.app.data.UserRepository;
 import com.vaadin.flow.spring.security.AuthenticationContext;
 import java.util.Optional;
 import org.springframework.security.core.userdetails.UserDetails;

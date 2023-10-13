@@ -1,4 +1,4 @@
-package com.generador.application.data;
+package com.generador.application.app.data;
 
 import jakarta.persistence.Entity;
 import jakarta.validation.constraints.Email;

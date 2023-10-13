@@ -1,4 +1,4 @@
-package com.generador.application.data;
+package com.generador.application.app.data;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.Column;

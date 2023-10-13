@@ -1,7 +1,7 @@
 package com.generador.application.security;
 
-import com.generador.application.data.User;
-import com.generador.application.data.UserRepository;
+import com.generador.application.app.data.User;
+import com.generador.application.app.data.UserRepository;
 import java.util.List;
 import java.util.stream.Collectors;
 import org.springframework.security.core.GrantedAuthority;

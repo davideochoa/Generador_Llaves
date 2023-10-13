@@ -1,7 +1,7 @@
 package com.generador.application.services;
 
-import com.generador.application.data.User;
-import com.generador.application.data.UserRepository;
+import com.generador.application.app.data.User;
+import com.generador.application.app.data.UserRepository;
 import java.util.Optional;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

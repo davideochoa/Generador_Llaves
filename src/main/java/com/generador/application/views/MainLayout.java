@@ -1,6 +1,6 @@
 package com.generador.application.views;
 
-import com.generador.application.data.User;
+import com.generador.application.app.data.User;
 import com.generador.application.security.AuthenticatedUser;
 import com.generador.application.views.about.AboutView;
 import com.generador.application.views.cardlist.CardListView;
